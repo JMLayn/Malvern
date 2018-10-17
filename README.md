@@ -37,6 +37,6 @@ chef-run azureuser@localhost ssh-remediation::default --password My-12-Char-Pass
 
 sudo inspec exec profiles/ssh
 
-sudo inspec exec profiles/ssh/ --json-config reporter.json```
+sudo inspec exec profiles/ssh/ --json-config reporter.json
 
 
