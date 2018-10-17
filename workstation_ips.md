@@ -1,5 +1,7 @@
 ***Workstation IPs***
 
+*azureuser/My-12-Char-Password*
+
 ```Spades	IP Address	name
 2 ♠	40.87.14.67	malvern1-ws-4
 3 ♠	40.87.14.81	malvern1-ws-3
