@@ -1,4 +1,4 @@
-# Malvern
+# Malvern Workshop
 Malven AAA workshop
 
 These are all the commands that are executed in the InSpec workshop
