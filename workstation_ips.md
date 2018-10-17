@@ -1,6 +1,6 @@
 ***Workstation IPs***
 
-Spades	IP Address	name
+```Spades	IP Address	name
 2 ♠	40.87.14.67	malvern1-ws-4
 3 ♠	40.87.14.81	malvern1-ws-3
 4 ♠	13.68.192.207	malvern1-ws-6
