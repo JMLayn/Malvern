@@ -3,7 +3,7 @@ Malven AAA workshop
 
 These are all the commands that are executed in the InSpec workshop
 
-ssh azureuser@<your ip> (My-12-Char-Password)
+```ssh azureuser@<your ip> (My-12-Char-Password)
   
 touch firstname-lastname
 
@@ -21,7 +21,6 @@ rm /home/azureuser/profiles/ssh/controls/example.rb
 
 cp ~/.PermitRootLogin.rb ~/profiles/ssh/controls/PermitRootLogin.rb
 
-
 sudo inspec exec profiles/ssh
 
 inspec exec profiles/ssh -t ssh://azureuser@104.211.54.213 --password My-12-Char-Password --sudo
@@ -38,6 +37,6 @@ chef-run azureuser@localhost ssh-remediation::default --password My-12-Char-Pass
 
 sudo inspec exec profiles/ssh
 
-sudo inspec exec profiles/ssh/ --json-config reporter.json
+sudo inspec exec profiles/ssh/ --json-config reporter.json```
 
 
